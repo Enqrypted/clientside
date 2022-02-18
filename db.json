@@ -12,7 +12,7 @@
 			"color": "red",
 			"title": "Red hoodie",
 			"price": "59.95",
-			"image": "@/assets/images/white.jpg",
+			"image": "@/assets/images/red.jpg",
 			"quantity": 25
 		},
 		{
@@ -20,7 +20,7 @@
 			"color": "green",
 			"title": "Green hoodie",
 			"price": "59.95",
-			"image": "@/assets/images/white.jpg",
+			"image": "@/assets/images/green.png",
 			"quantity": 25
 		}
 	]
